@@ -22,14 +22,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⬢ `reasoning`
+### 🧩 `reasoning`
 
 Multi-agent architectures, ontology-driven pipelines, LLM evaluation and interpretability.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ `modeling`
+### 📈 `modeling`
 
 Time-series and person-specific analytics, multimodal features, statistical inference.
 
@@ -38,14 +38,14 @@ Time-series and person-specific analytics, multimodal features, statistical infe
 <tr>
 <td width="50%" valign="top">
 
-### ▣ `systems`
+### ⚙️ `systems`
 
 Full-stack applications, APIs, containerized infrastructure, automated reporting.
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ `science`
+### 🔬 `science`
 
 Study design, replication-grade codebases, literature-scale extraction, publication pipelines.
 
@@ -55,21 +55,13 @@ Study design, replication-grade codebases, literature-scale extraction, publicat
 
 ---
 
-## Resume
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%" align="center">
+## [📄 Open my resume](https://stvsever.github.io/my_resume/)
 
-### ⟡ Full resume
+Education, research output and professional experience.
 
-Education, research output, professional experience and academic track record, all in one place.
-
-**[Open my resume](https://stvsever.github.io/my_resume/)**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -83,6 +75,6 @@ Education, research output, professional experience and academic track record, a
 
 <div align="center">
 
-`01000100 01101111 00100000 01101110 01101111 01110100 00100000 01100100 01101001 01110011 01110100 01110101 01110010 01100010 00100000 01101101 01100101 00101100 00100000 01001001 00100111 01101101 00100000 01101101 01100001 01111000 01101001 01101101 01101001 01111010 01101001 01101110 01100111 00100000 01101101 01111001 00100000 01100001 01100111 01100101 01101110 01100011 01111001 00101110`
+`01000100 01101111 00100000 01101110 01101111 01110100 00100000 01100100 01101001 01110011 01110100 01110101 01110010 01100010 00100000 01101101 01100101 00101100 00100000 01100011 01110101 01110010 01110010 01100101 01101110 01110100 01101100 01111001 00100000 01101101 01100001 01111000 01101001 01101101 01101001 01111010 01101001 01101110 01100111 00100000 01101101 01111001 00100000 01100001 01100111 01100101 01101110 01100011 01111001 00101110`
 
 </div>
