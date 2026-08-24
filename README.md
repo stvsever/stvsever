@@ -63,7 +63,7 @@ Study design, replication-grade codebases, literature-scale extraction, publicat
 
 ### ⟡ Full resume
 
-Education, research output and professional experience.
+Education, research output, professional experience and academic track record, all in one place.
 
 **[Open my resume](https://stvsever.github.io/my_resume/)**
 
