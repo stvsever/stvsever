@@ -57,9 +57,9 @@ Study design, replication-grade codebases, literature-scale extraction, publicat
 
 ## Resume
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
+<td width="100%" align="center">
 
 ### ⟡ Full resume
 
