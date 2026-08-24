@@ -22,14 +22,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**`reasoning`**
+### ⬢ `reasoning`
 
 Multi-agent architectures, ontology-driven pipelines, LLM evaluation and interpretability.
 
 </td>
 <td width="50%" valign="top">
 
-**`modeling`**
+### ◈ `modeling`
 
 Time-series and person-specific analytics, multimodal features, statistical inference.
 
@@ -38,14 +38,14 @@ Time-series and person-specific analytics, multimodal features, statistical infe
 <tr>
 <td width="50%" valign="top">
 
-**`systems`**
+### ▣ `systems`
 
 Full-stack applications, APIs, containerized infrastructure, automated reporting.
 
 </td>
 <td width="50%" valign="top">
 
-**`science`**
+### ✦ `science`
 
 Study design, replication-grade codebases, literature-scale extraction, publication pipelines.
 
@@ -57,10 +57,19 @@ Study design, replication-grade codebases, literature-scale extraction, publicat
 
 ## Resume
 
-> [!NOTE]
-> Education, research output and professional experience, in full.
->
-> **[stvsever.github.io/my_resume](https://stvsever.github.io/my_resume/)**
+<table>
+<tr>
+<td align="center">
+
+### ⟡ Full resume
+
+Education, research output and professional experience.
+
+**[Open my resume](https://stvsever.github.io/my_resume/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
