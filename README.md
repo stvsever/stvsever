@@ -57,9 +57,9 @@ Study design, replication-grade codebases, literature-scale extraction, publicat
 
 <div align="center">
 
-## [📄 Open my resume](https://stvsever.github.io/my_resume/)
-
 Education, research output and professional experience.
+
+### [📄 Open my resume](https://stvsever.github.io/my_resume/)
 
 </div>
 
