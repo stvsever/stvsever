@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/stvsever/stvsever/main/assets/pipeline.svg" alt="Noisy human data into an inference network into a decision" />
+<img width="100%" src="https://raw.githubusercontent.com/stvsever/stvsever/main/assets/pipeline.svg?v=2" alt="Noisy human data into an inference network into a decision" />
 
 </div>
 
