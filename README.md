@@ -1,7 +1,9 @@
 <div align="center">
 
+<h1>Stijn Van Severen</h1>
+
 <a href="https://github.com/stvsever">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Stijn+Van+Severen;AI+Engineer+%2F+Computational+Researcher;Agentic+Systems+%C2%B7+Human+Behavior+Modeling;Turning+noisy+human+data+into+systems+that+reason" alt="Stijn Van Severen" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&height=40&lines=AI+Engineer+%2F+Computational+Researcher;Agentic+Systems+%C2%B7+Human+Behavior+Modeling;Turning+noisy+human+data+into+systems+that+reason" alt="AI Engineer / Computational Researcher" />
 </a>
 
 <br/>
@@ -77,5 +79,3 @@ stijn@ugent:~$ ./whoami --verbose
 `01101000 01110100 01110100 01110000 01110011 00111010 00101111 00101111 01110011 01110100 01110110 01110011 01100101 01110110 01100101 01110010 00101110 01100111 01101001 01110100 01101000 01110101 01100010 00101110 01101001 01101111 00101111 01101101 01111001 01011111 01110010 01100101 01110011 01110101 01101101 01100101 00101111`
 
 </div>
-
-<!-- profile -->
