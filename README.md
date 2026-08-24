@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:1F6FEB,100:39D353&text=Stijn%20Van%20Severen&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20%2F%20Computational%20Researcher&descSize=16&descAlignY=56" alt="Stijn Van Severen" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:39D353&section=header" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&height=38&lines=Agentic+systems+%C2%B7+human+behavior+modeling;Ontologies%2C+time+series%2C+language%2C+brains;Turning+noisy+human+data+into+systems+that+reason" alt="focus" />
+<h1>Stijn Van Severen</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&height=38&lines=AI+Engineer+%2F+Computational+Researcher;Agentic+systems%2C+human+behavior+modeling;Ontologies%2C+time+series%2C+language%2C+brains;Turning+noisy+human+data+into+systems+that+reason" alt="AI Engineer / Computational Researcher" />
 
 <br/>
 
@@ -32,31 +34,17 @@ stijn@ugent:~$ ./whoami --verbose
 ## How I build
 
 ```mermaid
-flowchart LR
-    subgraph S1["01 · SENSE"]
-        direction TB
-        A1["time series"]
-        A2["language"]
-        A3["imaging"]
-    end
-    subgraph S2["02 · MODEL"]
-        direction TB
-        B1["feature spaces"]
-        B2["statistical inference"]
-    end
-    subgraph S3["03 · REASON"]
-        direction TB
-        C1["ontologies"]
-        C2["agentic pipelines"]
-    end
-    subgraph S4["04 · SHIP"]
-        direction TB
-        D1["APIs and interfaces"]
-        D2["reproducible builds"]
-    end
+flowchart TB
+    A["<b>01 · SENSE</b><br/>time series, language, imaging"]
+    B["<b>02 · MODEL</b><br/>feature spaces, statistical inference"]
+    C["<b>03 · REASON</b><br/>ontologies, agentic pipelines"]
+    D["<b>04 · SHIP</b><br/>APIs, interfaces, reproducible builds"]
 
-    S1 ==> S2 ==> S3 ==> S4
-    S4 -.->|evaluate and iterate| S1
+    A ==> B ==> C ==> D
+    D -.->|evaluate and iterate| A
+
+    classDef stage fill:#0D1117,stroke:#1F6FEB,stroke-width:2px,color:#58A6FF
+    class A,B,C,D stage
 ```
 
 ---
