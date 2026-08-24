@@ -66,7 +66,7 @@ stijn@ugent:~$ ./whoami --verbose
 <img width="48.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stvsever&theme=github_dark" alt="most used languages" />
 <img width="48.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stvsever&theme=github_dark&utcOffset=2" alt="commit clock" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=stvsever&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=8B949E&area=true&area_color=58A6FF" alt="contribution activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=stvsever&hide_border=true&bg_color=0D1117&title_color=39D353&color=8B949E&line=39D353&point=39D353&area=true&area_color=39D353&custom_title=Contribution%20Activity" alt="contribution activity" />
 
 </div>
 
