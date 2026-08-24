@@ -8,32 +8,59 @@
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/stvsever/stvsever/main/assets/pipeline.svg" alt="Noisy human data into an inference network into a decision" />
+
+</div>
+
+---
+
+## What I work on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`reasoning`**
+
+Multi-agent architectures, ontology-driven pipelines, LLM evaluation and interpretability.
+
+</td>
+<td width="50%" valign="top">
+
+**`modeling`**
+
+Time-series and person-specific analytics, multimodal features, statistical inference.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`systems`**
+
+Full-stack applications, APIs, containerized infrastructure, automated reporting.
+
+</td>
+<td width="50%" valign="top">
+
+**`science`**
+
+Study design, replication-grade codebases, literature-scale extraction, publication pipelines.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Resume
 
-Complete overview of my education, research output and professional experience.
-
-**[stvsever.github.io/my_resume](https://stvsever.github.io/my_resume/)**
-
----
-
-## Capabilities
-
-| Layer | What it means |
-| :--- | :--- |
-| `reasoning` | Multi-agent architectures, ontology-driven pipelines, LLM evaluation and interpretability |
-| `modeling` | Time-series and person-specific analytics, multimodal features, statistical inference |
-| `systems` | Full-stack applications, APIs, containerized infrastructure, automated reporting |
-| `science` | Study design, replication-grade codebases, literature-scale extraction, publication pipelines |
-
----
-
-## Stack
-
-| | |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
-| **ML and data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+> [!NOTE]
+> Education, research output and professional experience, in full.
+>
+> **[stvsever.github.io/my_resume](https://stvsever.github.io/my_resume/)**
 
 ---
 
