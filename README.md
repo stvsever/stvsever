@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://stvsever.github.io/my_resume/">
-  <img src="https://img.shields.io/badge/READ%20MY%20RESUME-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=0D1117&labelColor=0D1117" alt="Resume" />
+  <img src="https://img.shields.io/badge/READ_MY_RESUME-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
 </a>
 <a href="https://orcid.org/0009-0003-9181-966X">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=0D1117&labelColor=0D1117" alt="ORCID" />
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
 </a>
 
 </div>
